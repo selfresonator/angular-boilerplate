@@ -1,0 +1,13 @@
+{
+  "name": "selfres",
+  "version": "0.0.0",
+  "description": "",
+  "ignore": [
+    "bower_components",
+    "app/libs"
+  ],
+  "dependencies": {
+    "angular": "latest",
+    "angular-route": "latest"
+  }
+}
